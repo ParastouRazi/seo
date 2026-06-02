@@ -42,7 +42,8 @@ SEARCH_QUERIES = [
     "Cyber Security remote",
     "SOC remote",
     "Cyber Security Analyst remote",
-    "soc remote"
+    "soc remote",
+    "SOC"
 
 ]
 
