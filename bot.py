@@ -39,9 +39,11 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 SEARCH_QUERIES = [
     "Cyber Security Engineer",
     "Cyber Security Analyst",
+    "Cyber Security remote",
+    "SOC remote",
     "Cyber Security Analyst remote",
     "soc remote",
-    "Cyber Security + Visa sponsership","Cyber Security + relocation package",
+    "Cyber Security + Visa sponsership","Cyber Security + relocation package"
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
@@ -52,9 +54,9 @@ BLACKLIST_KEYWORDS = [
     "must be based in",
     "senior",
     "director",
-    "agency",
-    "full stack",
-    "fullstack",
+    "agency"
+  
+  
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
