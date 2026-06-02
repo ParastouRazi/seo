@@ -42,8 +42,8 @@ SEARCH_QUERIES = [
     "Cyber Security remote",
     "SOC remote",
     "Cyber Security Analyst remote",
-    "soc remote",
-    "Cyber Security + Visa sponsership","Cyber Security + relocation package"
+    "soc remote"
+
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
@@ -51,10 +51,8 @@ BLACKLIST_KEYWORDS = [
     "us residents only",
     "must reside in us",
     "must be located in the us",
-    "must be based in",
-    "senior",
-    "director",
-    "agency"
+    "must be based in"
+  
   
   
 ]
