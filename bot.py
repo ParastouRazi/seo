@@ -52,7 +52,8 @@ BLACKLIST_KEYWORDS = [
     "us residents only",
     "must reside in us",
     "must be located in the us",
-    "must be based in"
+    "must be based in",
+    "in USA"
   
   
   
