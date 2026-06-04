@@ -35,16 +35,45 @@ SEEN_JOBS_FILE    = Path("seen_jobs.txt")
 MAX_SEEN_JOBS     = 2000   # حداکثر تعداد ID ذخیره شده (جلوگیری از بزرگ شدن فایل)
 MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجرا
 
+
+
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Cyber Security Engineer",
-    "Cyber Security Analyst",
-    "Cyber Security remote",
-    "SOC remote",
-    "Cyber Security Analyst remote",
-    "soc remote",
-    "SOC"
 
+    # Core Security + Visa / Relocation
+    '"Cyber Security" AND "visa sponsorship"',
+    '"Cyber Security" AND "visa sponsorship available"',
+    '"Cyber Security" AND "work visa sponsorship"',
+    '"Cyber Security" AND "employment sponsorship"',
+    '"Cyber Security" AND "international candidates welcome"',
+    '"Cyber Security" AND "open to international applicants"',
+    '"Cyber Security" AND "relocation assistance"',
+    '"Cyber Security" AND "relocation support"',
+    '"Cyber Security" AND "relocation package"',
+    '"Cyber Security" AND "global mobility"',
+
+    # SOC
+    '"SOC" AND "visa sponsorship"',
+    '"SOC" AND "relocation assistance"',
+    '"SOC" AND "international candidates welcome"',
+
+    # Security Engineer / Analyst
+    '"Cyber Security Engineer" AND "visa sponsorship"',
+    '"Cyber Security Analyst" AND "visa sponsorship"',
+    '"Security Engineer" AND "work visa sponsorship"',
+    '"Security Analyst" AND "relocation package"',
+
+    # DevSecOps
+    '"DevSecOps" AND "visa sponsorship"',
+    '"DevSecOps" AND "relocation support"',
+
+    # Broader Security Queries
+    '"Security" AND "visa sponsorship"',
+    '"Security" AND "sponsorship available"',
+    '"Security" AND "relocation available"',
+    '"Security" AND "overseas applicants welcome"',
+    '"Security" AND "immigration support"',
+    '"Security" AND "candidate sponsorship available"',
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
@@ -53,10 +82,37 @@ BLACKLIST_KEYWORDS = [
     "must reside in us",
     "must be located in the us",
     "must be based in",
-    "in USA"
-  
-  
-  
+    "must currently live in",
+    "local candidates only",
+
+    "no sponsorship",
+    "no sponsorship available",
+    "visa sponsorship not available",
+    "unable to provide sponsorship",
+    "cannot sponsor",
+    "we do not sponsor visas",
+
+    "must be authorized to work",
+    "authorized to work in",
+    "right to work required",
+    "unrestricted work authorization",
+
+    "us citizens only",
+    "citizenship required",
+    "security clearance required",
+    "clearance required",
+
+    "Lead",
+    "Director",
+    "Principal",
+    "Manager",
+
+    "no relocation",
+    "relocation not provided",
+
+    "C2C",
+    "1099 only",
+    "W2 only"
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
