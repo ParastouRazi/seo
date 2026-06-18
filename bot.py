@@ -63,21 +63,57 @@ SEARCH_QUERIES = [
     '"Security Engineer" AND "work visa sponsorship"',
     '"Security Analyst" AND "relocation package"',
 
-    # DevSecOps
-    '"DevSecOps" AND "visa sponsorship"',
-    '"DevSecOps" AND "relocation support"',
+
+
+  # Broader Security Queries
+ 
+    '"DevSecOps" AND "Turkey"' ,
+    '"DevSecOps" AND "Netherlands"' ,
+    '"DevSecOps" AND "Belgium"',
+    '"DevSecOps" AND "Flanders"',
+    '"DevSecOps" AND "Bulgaria"',
+    '"DevSecOps" AND "Germany"',
+    
+    # Broader Security Queries
+ 
+    '"Devops" AND "Turkey"' ,
+    '"Devops" AND "Netherlands"' ,
+    '"Devops" AND "Belgium"',
+    '"Devops" AND "Flanders"',
+    '"Devops" AND "Bulgaria"',
+    '"Devops" AND "Germany"',
+    # Broader Security Queries
+ 
+    '"Cloud" AND "Turkey"' ,
+    '"Cloud" AND "Netherlands"' ,
+    '"Cloud" AND "Belgium"',
+    '"Cloud" AND "Flanders"',
+    '"Cloud" AND "Bulgaria"',
+    '"Cloud" AND "Germany"',
 
     # Broader Security Queries
-    '"Security" AND "visa sponsorship"',
-    '"Security" AND "sponsorship available"',
-    '"Security" AND "relocation available"',
-    '"Security" AND "overseas applicants welcome"',
-    '"Security" AND "immigration support"',
-    '"Security" AND "candidate sponsorship available"',
+ 
+    '"Security" AND "Turkey" AND "Remote"' ,
+    '"Security" AND "Netherlands" AND "Remote"'' ,
+    '"Security" AND "Belgium" AND "Remote"'',
+    '"Security" AND "Flanders" AND "Remote"'',
+    '"Security" AND "Bulgaria" AND "Remote"'',
+    '"Security" AND "Germany" AND "Remote"''
+    
+    # Broader Security Queries
+ 
+    '"Security" AND "Turkey"' ,
+    '"Security" AND "Netherlands"' ,
+    '"Security" AND "Belgium"',
+    '"Security" AND "Flanders"',
+    '"Security" AND "Bulgaria"',
+    '"Security" AND "Germany"'
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
 BLACKLIST_KEYWORDS = [
+    "US",
+    "us",
     "us residents only",
     "must reside in us",
     "must be located in the us",
