@@ -93,12 +93,12 @@ SEARCH_QUERIES = [
 
     # Broader Security Queries
  
-    '"Security" AND "Turkey" AND "Remote"' ,
-    '"Security" AND "Netherlands" AND "Remote"' ,
-    '"Security" AND "Belgium" AND "Remote"',
-    '"Security" AND "Flanders" AND "Remote"',
-    '"Security" AND "Bulgaria" AND "Remote"',
-    '"Security" AND "Germany" AND "Remote"',
+    '"Security" AND "Turkey"' ,
+    '"Security" AND "Netherlands"' ,
+    '"Security" AND "Belgium"',
+    '"Security" AND "Flanders"',
+    '"Security" AND "Bulgaria"',
+    '"Security" AND "Germany"',
     
     # Broader Security Queries
  
