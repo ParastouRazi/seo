@@ -98,7 +98,7 @@ SEARCH_QUERIES = [
     '"Security" AND "Belgium" AND "Remote"'',
     '"Security" AND "Flanders" AND "Remote"'',
     '"Security" AND "Bulgaria" AND "Remote"'',
-    '"Security" AND "Germany" AND "Remote"''
+    '"Security" AND "Germany" AND "Remote"'',
     
     # Broader Security Queries
  
@@ -107,7 +107,7 @@ SEARCH_QUERIES = [
     '"Security" AND "Belgium"',
     '"Security" AND "Flanders"',
     '"Security" AND "Bulgaria"',
-    '"Security" AND "Germany"'
+    '"Security" AND "Germany"',
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
