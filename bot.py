@@ -40,30 +40,7 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
 
-    # Core Security + Visa / Relocation
-    '"Cyber Security" AND "visa sponsorship"',
-    '"Cyber Security" AND "visa sponsorship available"',
-    '"Cyber Security" AND "work visa sponsorship"',
-    '"Cyber Security" AND "employment sponsorship"',
-    '"Cyber Security" AND "international candidates welcome"',
-    '"Cyber Security" AND "open to international applicants"',
-    '"Cyber Security" AND "relocation assistance"',
-    '"Cyber Security" AND "relocation support"',
-    '"Cyber Security" AND "relocation package"',
-    '"Cyber Security" AND "global mobility"',
-
-    # SOC
-    '"SOC" AND "visa sponsorship"',
-    '"SOC" AND "relocation assistance"',
-    '"SOC" AND "international candidates welcome"',
-
-    # Security Engineer / Analyst
-    '"Cyber Security Engineer" AND "visa sponsorship"',
-    '"Cyber Security Analyst" AND "visa sponsorship"',
-    '"Security Engineer" AND "work visa sponsorship"',
-    '"Security Analyst" AND "relocation package"',
-
-
+  
 
   # Broader Security Queries
  
