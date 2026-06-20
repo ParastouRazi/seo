@@ -61,12 +61,12 @@ SEARCH_QUERIES = [
     '"Devops" AND "Germany"',
     # Broader Security Queries
  
-    '"Cloud" AND "Turkey"' ,
-    '"Cloud" AND "Netherlands"' ,
-    '"Cloud" AND "Belgium"',
-    '"Cloud" AND "Flanders"',
-    '"Cloud" AND "Bulgaria"',
-    '"Cloud" AND "Germany"',
+    '"Cloud Engineer" AND "Turkey"' ,
+    '"Cloud Engineer" AND "Netherlands"' ,
+    '"Cloud Engineer" AND "Belgium"',
+    '"Cloud Engineer" AND "Flanders"',
+    '"Cloud Engineer" AND "Bulgaria"',
+    '"Cloud Engineer" AND "Germany"',
 
     # Broader Security Queries
  
