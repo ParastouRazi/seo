@@ -44,29 +44,10 @@ SEARCH_QUERIES = [
 
   # Broader Security Queries
  
-    '"DevSecOps" AND "Turkey"' ,
-    '"DevSecOps" AND "Netherlands"' ,
-    '"DevSecOps" AND "Belgium"',
-    '"DevSecOps" AND "Flanders"',
-    '"DevSecOps" AND "Bulgaria"',
-    '"DevSecOps" AND "Germany"',
+    '"Security" AND "Sweden"' ,
+
     
-    # Broader Security Queries
- 
-    '"Devops" AND "Turkey"' ,
-    '"Devops" AND "Netherlands"' ,
-    '"Devops" AND "Belgium"',
-    '"Devops" AND "Flanders"',
-    '"Devops" AND "Bulgaria"',
-    '"Devops" AND "Germany"',
-    # Broader Security Queries
- 
-    '"Cloud Engineer" AND "Turkey"' ,
-    '"Cloud Engineer" AND "Netherlands"' ,
-    '"Cloud Engineer" AND "Belgium"',
-    '"Cloud Engineer" AND "Flanders"',
-    '"Cloud Engineer" AND "Bulgaria"',
-    '"Cloud Engineer" AND "Germany"',
+   
 
     # Broader Security Queries
  
