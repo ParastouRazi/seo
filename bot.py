@@ -63,42 +63,15 @@ SEARCH_QUERIES = [
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
 BLACKLIST_KEYWORDS = [
     "US",
-    "us",
-    "us residents only",
-    "must reside in us",
-    "must be located in the us",
-    "must be based in",
-    "must currently live in",
-    "local candidates only",
-
-    "no sponsorship",
-    "no sponsorship available",
-    "visa sponsorship not available",
-    "unable to provide sponsorship",
-    "cannot sponsor",
-    "we do not sponsor visas",
-
-    "must be authorized to work",
-    "authorized to work in",
-    "right to work required",
-    "unrestricted work authorization",
-
-    "us citizens only",
-    "citizenship required",
-    "security clearance required",
-    "clearance required",
-
+    
     "Lead",
     "Director",
     "Principal",
     "Manager",
 
     "no relocation",
-    "relocation not provided",
+    "relocation not provided"
 
-    "C2C",
-    "1099 only",
-    "W2 only"
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
